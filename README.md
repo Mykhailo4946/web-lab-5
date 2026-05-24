@@ -1,4 +1,4 @@
-# lab-5
+# Lab-5 JSON Processing Exercise Series
 
 ## Виконані вправи
 1. **JSON ECHO** (`json_echo.js`) - Парсинг тіла запиту, перевірка на валідність JSON та відправка отриманого об'єкта назад клієнту.
